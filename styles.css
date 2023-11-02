@@ -4,6 +4,12 @@ img {
     overflow: hidden
 }
 
+video {
+  max-height:100%; 
+  max-width:100%; 
+  overflow: hidden
+}
+
 #home_text { 
     /* display: inline-block; */
     font-family: "arial";
