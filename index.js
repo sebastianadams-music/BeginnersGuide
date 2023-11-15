@@ -1,18 +1,20 @@
-let homeObj = {
-    "joan1": "slow travel diary",
-    "soundmapping": "soundmapping",
-    "linktest": "link test",
-    "rob": "walking scores",     
+function startBG(){
+    let homeObj = {
+        "joan1": "slow travel diary",
+        "soundmapping": "soundmapping",
+        "linktest": "link test",
+        "rob": "walking scores",     
+    }
+    
+    
+                
+    
+    
+    document.getElementById("vid").pause()
+    document.getElementById("reset").addEventListener("click", resetSessionStorage)
+    loadHome(Object.entries(homeObj))
+    demo()
 }
-
-
-            
-
-
-document.getElementById("vid").pause()
-document.getElementById("reset").addEventListener("click", resetSessionStorage)
-loadHome(Object.entries(homeObj))
-demo()
 
 
 function demo(){
@@ -161,6 +163,7 @@ function loadHome(array){
     
 }
 
+a
 
 // session storage modifications
 
@@ -318,7 +321,7 @@ let data = {
 
 <p class="right">&lsquo;I don&rsquo;t think it is possible to contribute to the present moment in any meaningful way while being wholly engulfed by it. It is only by stepping out of it, by taking a telescopic perspective, that we can then dip back in and do the work which our times asks of us.&rsquo; <br>-Maria Popova</p>
 
-<img src="i/googledoc_13.jpg" alt="">
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/googledoc_13.jpg" alt="">
 
 
 <p>when you travel slower, you encounter more. <br>because there&rsquo;s just more time to. I rarely talk to people on planes, but I often do, even if it&rsquo;s just a short chat, on the SailRail. <br>and there are more parts of the journey where you have an opportunity for conversation too</p>
@@ -336,7 +339,7 @@ let data = {
 ` <a href="x" data-name="home">travel home</a>
 <p>the first few times I made the journey over land (and sea) between Ireland, where I&rsquo;m from, and Belgium, where I live, I felt almost embarrassed telling people. it felt like a ridiculously long journey, and a lot of money to spend on it too, when there are such cheap flights between those places. I felt self-conscious about my decision to travel by land for environmental reasons, even though I knew it was justified and a perfectly innocuous decision that didn&rsquo;t affect anyone else, simply because air travel, especially for Irish people wanting to get off our little island, is such a norm. I thought people might think I was some kind of climate martyr trying to make them feel bad for taking planes</p>
 
-<img src="i/googledoc_9.jpg" alt="Photos of Joan's journey">
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/googledoc_9.jpg" alt="Photos of Joan's journey">
 
 
 <p>making that first journey, I thought, ok, this isn&rsquo;t something I&rsquo;m going to be able to do every time, but why not do it now, I have the time, and it&rsquo;s a kind of dramatic way to move country. but four years later, I now make the majority of my journeys between Ireland and Belgium by land. Last Christmas, last Easter, in June for a wedding, to Scotland in July for a holiday and then to Dublin from there, this time for work. I have flown this year too. once from Brussels to Dublin in March for an interview, because I had to book last minute and couldn&rsquo;t afford the Eurostar, and again from Dublin to Brussels in August, travelling with a group of participants for a film project. I still feel guilty when I fly. rather than working on not feeling guilty, which is what other people (read: my parents) tell me to do, I see that guilt as being symptomatic of a gap between what I want to be doing and what I am doing, and want to work on reducing the gap as much as I can. which, as I start to work increasingly often in Ireland, is going to mean asking to have my over-land travel costs (and potentially travel time) covered by project money, which I have occasionally been successful in. it helps that I have, over time, normalised it even just for myself</p>
@@ -348,12 +351,12 @@ let data = {
 <p>the more times I made the journey, the less special it became. it also became less long, less slow. or so it seemed. my perception shifted. I didn&rsquo;t think about the work I could get done in the extra time needed to travel by train and ferry instead of by plane. I didn&rsquo;t think about what a lovely time I would have gazing out at the scenery and reflecting on my life while on the train (sometimes I do, but it&rsquo;s not a given). it&rsquo;s just become a habit, not something I am doing to prove a point or be virtuous. it is my auto-pilot way to move between my two homes (pun intended)</p>
 
 <p class="centre">things observed on the journey, June 9th<br><br> -the foot statue (although not the first time I've seen it) <br>
-    <img class="cent" src="i/googledoc_2.jpg" alt="image of foot">
+    <img class="cent" src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/googledoc_2.jpg" alt="image of foot">
     <br>
     -women sitting across from me on the train taking ecstasy on their way to a festival 
-    <br><img class="cent" src="i/googledoc_6.jpg" alt="image of foot"><br>
+    <br><img class="cent" src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/googledoc_6.jpg" alt="image of foot"><br>
     <br>-a very red sun setting (from the deck of the ferry)
-    <br><img class="cent" src="i/googledoc_11.jpg" alt="image of foot"><br>
+    <br><img class="cent" src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/googledoc_11.jpg" alt="image of foot"><br>
 
     <br>         
      -a lot of bad ferry art (but good ferry port art)</p>
