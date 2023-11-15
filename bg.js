@@ -163,7 +163,6 @@ function loadHome(array){
     
 }
 
-a
 
 // session storage modifications
 
