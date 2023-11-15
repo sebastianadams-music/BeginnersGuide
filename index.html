@@ -8,23 +8,30 @@
 <body>
     
     <div id="container">
+        <video id="vid" controls preload="auto" autoplay controls="false" hidden>
+        <!-- <source src="ferry1b.mp4" type="video/mp4"> -->
+        <source src="https://github.com/sebastianadams-music/BeginnersGuide/blob/main/ferry1b.mp4?raw=true" type="video/mp4">
+        
+        Your browser does not support the video tag.
+      </video>
+      <h1 class="hidewhenvid">BEGINNER's GUIDE TO SLOW TRAVEL</h1>
         <div id="content">
-            <a href="x" data-name="joan">load Joan's text</a>
-            <a href="x" data-name="rob">load Walking Scores</a>
-            <a href="x" data-name="soundmapping">Soundmapping</a>
+            <a href="x" data-name="joan1">slow travel diary</a><br>
+            <a href="x" data-name="rob">walking scores</a><br>
+            <a href="x" data-name="soundmapping">soundmapping</a>
+            <a href="x" data-name="linktest">link test</a><br><br>
             <div id="home_text">  <p class="typed">This is a guide to slow travel, for beginners.</p>
+                
             </div>
-            
+            <div id="info"><i>supported by Culture Ireland and PRS Foundation Beyond Borders<br>
+                Commissioned by New Music Dublin, sound and hcmf<br>
+                Kirkos is funded through Arts Council of Ireland Arts Grant Funding and supported by Dublin City Council</i></div>
         </div>
-        <video id="vid" controls preload="auto" hidden>
-            <!-- <source src="ferry1b.mp4" type="video/mp4"> -->
-            <source src="https://github.com/sebastianadams-music/BeginnersGuide/blob/main/ferry1b.mp4?raw=true" type="video/mp4">
-            
-            Your browser does not support the video tag.
-          </video>
+        
+          
           <div id="status"></div>
           <br>
-          <button id="reset">Reset Click Counter</button>
+          <button class="hidewhenvid" id="reset">Reset Click Counter</button>
     </div>
     <script src="index.js" defer></script>
 </body>
