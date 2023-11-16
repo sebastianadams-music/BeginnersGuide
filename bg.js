@@ -6,7 +6,7 @@ function startBG(){
         "rob": "walking scores",     
     }
     
-    
+    window.homeObj = homeObj
                 
     
     
@@ -18,7 +18,7 @@ function startBG(){
 
 
 function demo(){
-    let content = document.getElementById("content")
+    let content = document.getElementById("bg_content")
     let links = document.querySelectorAll('a')
     console.log(links)
     links.forEach((link) => {
@@ -137,7 +137,7 @@ function playMovie(){
 
 
 function loadHome(array){
-    let content = document.getElementById("content")
+    let content = document.getElementById("bg_content")
     content.innerHTML = ""
     array.forEach(
         (entry) => {
