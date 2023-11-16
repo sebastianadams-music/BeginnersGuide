@@ -158,6 +158,10 @@ function loadHome(array){
     p.textContent = "This is a guide to slow travel, for beginners."
     div.appendChild(p)
     content.appendChild(div)
+    let img = document.createElement("img")
+    img.src = "https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/googledoc_13.jpg"
+    img.alt = "photo of tiny snail"
+    content.appendChild("img")
        
     
     
