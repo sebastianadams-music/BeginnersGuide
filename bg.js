@@ -285,28 +285,28 @@ let data = {
 // ROB
 "rob": `
 <a href="x" data-name="home">travel home</a><br>
-<img src="walkingscores/walking1.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking2.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking3.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking4.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking5.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking6.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking7.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking8.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking9.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking10.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking11.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking12.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking13.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking14.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking15.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking16.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking17.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking18.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking19.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking20.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking21.jpg" alt="photo from walking score book"><br>
-<img src="walkingscores/walking22.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking1.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking2.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking3.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking4.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking5.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking6.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking7.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking8.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking9.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking10.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking11.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking12.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking13.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking14.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking15.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking16.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking17.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking18.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking19.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking20.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking21.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking22.jpg" alt="photo from walking score book"><br>
 
 `,
 // JOAN 1 2 and 3
