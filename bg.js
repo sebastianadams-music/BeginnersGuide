@@ -161,7 +161,7 @@ function loadHome(array){
     let img = document.createElement("img")
     img.src = "https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/googledoc_13.jpg"
     img.alt = "photo of tiny snail"
-    content.appendChild("img")
+    content.appendChild(img)
        
     
     
