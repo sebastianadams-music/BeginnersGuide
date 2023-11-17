@@ -3,7 +3,7 @@ function startBG(){
         "joan1": "slow travel diary",
         // "soundmapping": "soundmapping",
         // "linktest": "link test",
-        "rob": "walking scores",     
+        "walk1": "walking scores",     
         
     }
     
@@ -16,7 +16,6 @@ function startBG(){
     loadHome(Object.entries(homeObj))
     demo()
 }
-
 
 function demo(){
     let content = document.getElementById("bg_content")
@@ -366,11 +365,21 @@ let data = {
      -a lot of bad ferry art (but good ferry port art)</p>
      <a href="x" data-name="home">travel home</a>`,
 
+// WALKING SCORES
+    "walk1": ``,
+    "walk2": ``,
+    "walk3": ``,
+    "walk4": ``,
+
+// EXTERNAL LINKS
+
      "linktest": 
      `link http://www.sebastianadams.net`,
 
      "walkingfromscores": 
      `link https://www.lespressesdureel.com/EN/ouvrage.php?id=9429`,
+
+
 
 // BLANK EXAMPLE
 "eg": 
