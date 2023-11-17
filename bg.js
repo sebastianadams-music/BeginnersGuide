@@ -1,9 +1,10 @@
 function startBG(){
     let homeObj = {
         "joan1": "slow travel diary",
-        "soundmapping": "soundmapping",
-        "linktest": "link test",
+        // "soundmapping": "soundmapping",
+        // "linktest": "link test",
         "rob": "walking scores",     
+        
     }
     
     window.homeObj = homeObj
@@ -11,7 +12,7 @@ function startBG(){
     
     
     document.getElementById("vid").pause()
-    document.getElementById("reset").addEventListener("click", resetSessionStorage)
+    // document.getElementById("reset").addEventListener("click", resetSessionStorage) // reset button
     loadHome(Object.entries(homeObj))
     demo()
 }
@@ -367,6 +368,9 @@ let data = {
 
      "linktest": 
      `link http://www.sebastianadams.net`,
+
+     "walkingfromscores": 
+     `link https://www.lespressesdureel.com/EN/ouvrage.php?id=9429`,
 
 // BLANK EXAMPLE
 "eg": 
