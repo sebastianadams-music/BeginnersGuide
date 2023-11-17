@@ -366,8 +366,26 @@ let data = {
      <a href="x" data-name="home">travel home</a>`,
 
 // WALKING SCORES
-    "walk1": ``,
-    "walk2": ``,
+    "walk1": `    <a href="x" data-name="home">travel home</a>
+    <br>
+    <br>
+    <i>Excerpts from the book <a href="x" data-name="walkingfromscores">Walking from Scores</a></i><br>
+    <br>
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking1.jpg" alt="photo from walking score book"><br>
+    <br>
+    <a href="x" data-name="walk2">keep walking...</a>
+    <br>
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/snailgif1.gif" alt="photo of a tiny snail on a chocolate bar"><br>`,
+    "walk2": `<a href="x" data-name="home">travel home</a>
+    <br>
+    <br>
+    <i>Excerpts from the book <a href="x" data-name="walkingfromscores">Walking from Scores</a></i><br>
+    <br>
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking2.jpg" alt="photo from walking score book"><br>
+    <br>
+    <a href="x" data-name="walk3">keep walking...</a>
+    <br>
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/tinysnailrobzoomedout.jpeg" alt="photo of a tiny snail on a chocolate bar"><br>`,
     "walk3": ``,
     "walk4": ``,
 
