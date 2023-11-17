@@ -386,8 +386,44 @@ let data = {
     <a href="x" data-name="walk3">keep walking...</a>
     <br>
     <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/tinysnailrobzoomedout.jpeg" alt="photo of a tiny snail on a chocolate bar"><br>`,
-    "walk3": ``,
-    "walk4": ``,
+    "walk3": `<a href="x" data-name="home">travel home</a>
+    <br>
+    <br>
+    <i>Excerpts from the book <a href="x" data-name="walkingfromscores">Walking from Scores</a></i><br>
+    <br>
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking3.jpg" alt="photo from walking score book"><br>
+    <br>
+    <a href="x" data-name="walk4">keep walking...</a>
+    <br>
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/snailgif2.png" alt="photo of a tiny snail on a chocolate bar"><br>`,
+    "walk4": `<a href="x" data-name="home">travel home</a>
+    <br>
+    <br>
+    <i>Excerpts from the book <a href="x" data-name="walkingfromscores">Walking from Scores</a></i><br>
+    <br>
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking4.jpg" alt="photo from walking score book"><br>
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking5.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking6.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking7.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking8.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking9.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking10.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking11.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking12.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking13.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking14.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking15.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking16.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking17.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking18.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking19.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking20.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking21.jpg" alt="photo from walking score book"><br>
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/walkingscores/walking22.jpg" alt="photo from walking score book"><br>
+    <br>
+    <a href="x" data-name="home">travel home</a>
+    <br>
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/snailgif3.gif" alt="photo of a tiny snail on a chocolate bar"><br>`,
 
 // EXTERNAL LINKS
 
