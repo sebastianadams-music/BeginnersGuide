@@ -385,7 +385,7 @@ let data = {
     <br>
     <a href="x" data-name="walk3">keep walking...</a>
     <br>
-    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/tinysnailrobzoomedout.jpeg" alt="photo of a tiny snail on a chocolate bar"><br>`,
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/snailgif2.gif" alt="photo of a tiny snail on a chocolate bar"><br>`,
     "walk3": `<a href="x" data-name="home">travel home</a>
     <br>
     <br>
@@ -395,7 +395,7 @@ let data = {
     <br>
     <a href="x" data-name="walk4">keep walking...</a>
     <br>
-    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/snailgif2.png" alt="photo of a tiny snail on a chocolate bar"><br>`,
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/snailgif3.gif" alt="photo of a tiny snail on a chocolate bar"><br>`,
     "walk4": `<a href="x" data-name="home">travel home</a>
     <br>
     <br>
@@ -423,7 +423,7 @@ let data = {
     <br>
     <a href="x" data-name="home">travel home</a>
     <br>
-    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/snailgif3.gif" alt="photo of a tiny snail on a chocolate bar"><br>`,
+    <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/tinysnailrobzoomedout.jpeg" alt="photo of a tiny snail on a chocolate bar"><br>`,
 
 // EXTERNAL LINKS
 
