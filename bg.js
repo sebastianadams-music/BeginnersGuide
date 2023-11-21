@@ -3,7 +3,8 @@ function startBG(){
         "joan1": "slow travel diary",
         // "soundmapping": "soundmapping",
         // "linktest": "link test",
-        "walk1": "walking scores",     
+        "walk1": "walking scores", 
+        "blink": "Blink Piece",   
         
     }
     
@@ -42,7 +43,7 @@ function demo(){
             url = event.target.dataset.name;
             console.log(url)
             playMovie()
-            sleep(del * 1000).then(()=>{
+            sleep((del) * 1000).then(()=>{
                 stopPlayingMovie()
                 console.log(data)
                 console.log(data[url])
@@ -176,7 +177,7 @@ function updateSessionStorage() {
     console.log(delayStorage)
     if (!delayStorage){
         // localStorage.setItem('slowtravel', 1) // actually seems unnecessary
-        delayStorage = .1
+        delayStorage = .5
     }
     if (delayStorage <= 8){
         delayStorage *= 1.5
@@ -363,7 +364,37 @@ let data = {
 
     <br>         
      -a lot of bad ferry art (but good ferry port art)</p>
-     <a href="x" data-name="home">travel home</a>`,
+     <a href="x" data-name="joan4">more</a>`,
+
+"joan4": ` <a href="x" data-name="home">travel home</a>
+
+<p>if you fly you bypass the landscape in between the place you are at the beginning and the destination</p>
+<p>for a long time the idea of ‘slowing down’ did not appeal to me. I liked going fast, getting lots of stimuli, feeling I was doing something, contributing something. In fact for many years, in which I taught drama and worked multiple side jobs between and alongside unpaid and underpaid creative projects to be able to pay my rent, I was fueled by an antsiness connected to wanting to do more, in terms of creative work, not less. earlier this year though my body took the executive decision to slow down. I developed hypothyroidism, likely triggered by ongoing high cortisol levels. the thyroid works hormonally, and basically regulates a lot of functions of your body, from energy levels to sleep to digestion. the main symptom I was experiencing was fatigue, on a level I had never experienced before. there were days when I could hardly get out of bed, which, as someone who used to move around very fast and do a lot of things in one day, was also mentally hard to deal with
+</p>
+<br><br><img src="i/googledoc_19.jpg" alt="image of fern"><br>
+
+     <a href="x" data-name="joan5">more</a>
+`,
+"joan5": `<a href="x" data-name="home">travel home</a>
+
+<p>even after starting to implement recommendations of multiple doctors, and slowly feeling my energy levels rise somewhat, I decided that regardless of whether my hypothyroidism proved to be chronic or not, I wanted to try to do less. or maybe not less exactly, but do more on less projects. because over the years I had come to appreciate that, in art as in other aspects of life, doing nothing in not doing nothing. just as silence is not real silence. in my practice, what looks like doing less is not actually doing less. It took me some experience to realise how important those days in the studio where, apart from boiling the kettle, you spend the whole day staring at the wall or out the window, thinking. doing less is simply a different approach, and one that sometimes allows me to make more, or something that IS more. so when Sebastian invited me to work on this project, while I was initially excited at the prospect, I did doubt saying yes at first, and had to have a good think about whether it was a good idea to commit to an additional project, after having decided to focus in the coming year more on my own personal practice, and commit less energy than in previous years to other collective projects on top of that. In the end I decided that this project would give as much energy as it would take, and that I also just wanted more improvisation in my life, which I knew would be central to our process with the piece. my tiredness is making me be more unapologetic about choosing creative work over admin and planning and networking work connected to the creative work. my body is rejecting the admin, and wanting instead to sink into the moving, drawing, writing. I know that the admin side of the work is necessary, but it’s not what I want to be absorbed by right now. maybe I need to find a new way to do it. when I was starting out as a theatre maker, a lot of my energy went into writing applications, sending emails, trying to meet and connect with relevant people, coming up with proposals that would never happen, because I felt that was what I needed to do in order for someone to let me make the work. now that my energy levels are so quickly depleted it has become even more clear that I am not happy about the energy I put into my practice is divided. slash consumed. yes, emails need to be answered, but if you don’t make time for creating, no one is going to make it for you. granted it is partly thanks to many years of legwork setting up projects without money and connecting with people that I did do back when I had the energy for it, and some recent focused periods applying for funding, that I am now in a position to carve out more time to just be in the studio, messing around. and more time to do nothing. and to read. so of course I also read ‘How to Do Nothing: Resisting the Attention Economy,’ by Jenny Odell. which funnily enough is also about how doing nothing is not actually doing nothing. the book could be described as being about shifting our attention, and doing less in one framework (corporate social media for example), to do more in another, for example a birdwatching group in a local park or a neighbourhood Signal group:
+</p>
+<p class="right">‘When the logic of capitalist productivity threatens both endangered life and endangered ideas, I see little difference between habitat restoration in the traditional sense and restoring habitats for human thought.’
+</p><a href="x" data-name="joan6">more</a>
+`,
+"joan6": `<a href="x" data-name="home">travel home</a>
+<p>our rehearsal room, structured around naps, eating, talking and improvising, has felt like a habitat for thinking, together. not just through words but through sound, movement, contact and stillness. thinking but also resting, mourning, celebrating and imagining. 
+</p>
+<br>
+<br><img src="i/googledoc_10.jpg" alt="image of seagull flying away"><br>
+<p>the idea of making a piece about climate initially felt daunting. should we be making some kind of grand statement in the work? and who were we to be making a grand statement? we are just six artists, trying (although not always managing) to be engaged with the world and other people in it and with movements of resistance and protest, within and outside of our practices, no more experts on any of it than the next person. what got us excited, though, was considering different ways to think about and (re)do our relationships with other people, other creatures, and the landscapes around us, whether through creating travelling pirate radio stations, generating sound for plants through light energy, singing for cows, recording changing soundscapes in the natural environment on this island, or letting others rest of us on our bodies and instruments between playing
+</p> 
+
+         <a href="x" data-name="joan7">more</a>`,
+"joan7": `<p>part of why I wanted to be an artist was the idea that, in art, there are rules, kind of, but you can also break them, or make your own rules, and that’s also kind of what it’s all about. I liked the idea of making and testing new rules or conditions for being in the world and interacting with each other, under the guise of performance. as I see it, we made the piece, and the process of making it (and travelling to rehearsals), a kind of micro-habitat for living and working differently in. and like me taking the SailRail, what begins as some kind of symbolic statement or artistic gesture neither practical or normal, once you start in-habiting it, can become just that - a habit for living in, too.</p>
+
+<a href="x" data-name="home">travel home</a>`,
+
 
 // WALKING SCORES
     "walk1": `    <a href="x" data-name="home">travel home</a>
@@ -424,6 +455,19 @@ let data = {
     <a href="x" data-name="home">travel home</a>
     <br>
     <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/tinysnailrobzoomedout.jpeg" alt="photo of a tiny snail on a chocolate bar"><br>`,
+
+// BLINK PIECE
+
+"blink": `<h3>Blink Piece - Jane Hackett</h3>
+<p>Find a mirror and stand in front of it. <br>
+    Look at yourself. Have a staring competition with yourself. <br>
+    Whoever blinks first must create a rhythmic pattern with their eye blinks. <br>
+    Don’t pre-empt the rhythm. Listen to your surroundings for inspiration. <br>
+    Play with the contrast of blinks. <br>
+    When the time is right, rest your eyes and notice what you see in the darkness. 
+    </p>
+    <br><img src="i/windmill.gif" alt="animated gif of windmill spinning with a ferry behind it" srcset=""><br><br>
+<a href="x" data-name="home">travel home</a>`,
 
 // EXTERNAL LINKS
 
