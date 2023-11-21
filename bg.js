@@ -5,6 +5,7 @@ function startBG(){
         // "linktest": "link test",
         "walk1": "walking scores", 
         "blink": "Blink Piece",   
+        "hudd": "Journey to Huddersfield [19 Nov 23]",   
         
     }
     
@@ -468,6 +469,24 @@ let data = {
     </p>
     <br><img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/windmill.gif" alt="animated gif of windmill spinning with a ferry behind it" srcset=""><br><br>
 <a href="x" data-name="home">travel home</a>`,
+
+// JOURNEY TO HUDDERSFIELD
+
+"hudd": `<h2>Journey to Huddersfield 21/11/23</h2>
+<audio controls src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/audiomothhuddersfieldjourney.mp3"></audio>
+<br>
+<p>Journey made by Hannah, Jane, Rob, Sebastian, Yseult</p>
+<p>We all got a lift with Sebastian's dad David, except for Jane - who was brought by her own dad.</p>
+<p>8.05am ferry from Dublin to Holyhead with Irish Ferries</p>
+<p>Sebastian misread the schedule and we missed a train at Holyhead, so we stopped for a sausage roll.</p>
+<p>We nearly missed the next one by getting on the wrong train (marked 0000), but realised at the last moment...</p>
+<p>Train from Holyhead to Crewe, then a change to Manchester Piccadilly.</p>
+<p>Then finally, another change to take the train all the way to Huddersfield.</p>
+<p>We piled the six of us and all our gear into one taxi, and most of us were shocked to discover that Northern Irish pounds are not legal tender in England.</p>
+<p>We reached the hotel around 5pm - 11 hours after we left our houses. The travel went very smoothly - but we found the repeated changes of train very tiring. The people who hadn't done SailRail before were amazed at how nice the ferry was, and how chilled out the process was compared to flying.</p>
+<br>    <a href="x" data-name="home">travel home</a><br><br>
+
+<img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/port211123.jpg" alt="part of Kirkos at the port at dawn, photobombed by a cute little white fluffy dog">`,
 
 // EXTERNAL LINKS
 
