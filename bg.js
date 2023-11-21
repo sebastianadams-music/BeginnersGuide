@@ -371,7 +371,7 @@ let data = {
 <p>if you fly you bypass the landscape in between the place you are at the beginning and the destination</p>
 <p>for a long time the idea of ‘slowing down’ did not appeal to me. I liked going fast, getting lots of stimuli, feeling I was doing something, contributing something. In fact for many years, in which I taught drama and worked multiple side jobs between and alongside unpaid and underpaid creative projects to be able to pay my rent, I was fueled by an antsiness connected to wanting to do more, in terms of creative work, not less. earlier this year though my body took the executive decision to slow down. I developed hypothyroidism, likely triggered by ongoing high cortisol levels. the thyroid works hormonally, and basically regulates a lot of functions of your body, from energy levels to sleep to digestion. the main symptom I was experiencing was fatigue, on a level I had never experienced before. there were days when I could hardly get out of bed, which, as someone who used to move around very fast and do a lot of things in one day, was also mentally hard to deal with
 </p>
-<br><br><img src="i/googledoc_19.jpg" alt="image of fern"><br>
+<br><br><img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/googledoc_19.jpg" alt="image of fern"><br>
 
      <a href="x" data-name="joan5">more</a>
 `,
@@ -386,7 +386,7 @@ let data = {
 <p>our rehearsal room, structured around naps, eating, talking and improvising, has felt like a habitat for thinking, together. not just through words but through sound, movement, contact and stillness. thinking but also resting, mourning, celebrating and imagining. 
 </p>
 <br>
-<br><img src="i/googledoc_10.jpg" alt="image of seagull flying away"><br>
+<br><img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/googledoc_10.jpg" alt="image of seagull flying away"><br>
 <p>the idea of making a piece about climate initially felt daunting. should we be making some kind of grand statement in the work? and who were we to be making a grand statement? we are just six artists, trying (although not always managing) to be engaged with the world and other people in it and with movements of resistance and protest, within and outside of our practices, no more experts on any of it than the next person. what got us excited, though, was considering different ways to think about and (re)do our relationships with other people, other creatures, and the landscapes around us, whether through creating travelling pirate radio stations, generating sound for plants through light energy, singing for cows, recording changing soundscapes in the natural environment on this island, or letting others rest of us on our bodies and instruments between playing
 </p> 
 
@@ -466,7 +466,7 @@ let data = {
     Play with the contrast of blinks. <br>
     When the time is right, rest your eyes and notice what you see in the darkness. 
     </p>
-    <br><img src="i/windmill.gif" alt="animated gif of windmill spinning with a ferry behind it" srcset=""><br><br>
+    <br><img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/windmill.gif" alt="animated gif of windmill spinning with a ferry behind it" srcset=""><br><br>
 <a href="x" data-name="home">travel home</a>`,
 
 // EXTERNAL LINKS
