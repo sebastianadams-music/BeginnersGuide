@@ -6,7 +6,7 @@ function startBG(){
         "walk1": "walking scores", 
         "blink": "Blink Piece",   
         "hudd": "Journey to Huddersfield [19 Nov 23]",   
-        
+        "hudd_cows": "Joan sings to cows near Huddersfield",
     }
     
     window.homeObj = homeObj
@@ -487,6 +487,14 @@ let data = {
 <br>    <a href="x" data-name="home">travel home</a><br><br>
 
 <img src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/i/port211123.jpg" alt="part of Kirkos at the port at dawn, photobombed by a cute little white fluffy dog">`,
+
+// COWS IN HUDDERSFIELD
+
+"hudd_cows": `<h3>Joan sings to cows near Huddersfield - 22/11/23</h3>
+<video style="max-height:70vh; 
+max-width:70%; position:relative" controls src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/cowshudd.mp4"></video>
+<br><br>
+<a href="x" data-name="home">travel home</a>`,
 
 // EXTERNAL LINKS
 
