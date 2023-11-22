@@ -492,7 +492,7 @@ let data = {
 
 "hudd_cows": `<h3>Joan sings to cows near Huddersfield - 22/11/23</h3>
 <video style="max-height:70vh; 
-max-width:70%; position:relative" controls src="https://raw.githubusercontent.com/sebastianadams-music/BeginnersGuide/main/cowshudd.mp4?raw=true"></video>
+max-width:70%; position:relative" controls src="https://github.com/sebastianadams-music/BeginnersGuide/blob/main/cowshudd.mp4?raw=true"></video>
 <br><br>
 <a href="x" data-name="home">travel home</a>`,
 
